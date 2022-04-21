@@ -2,7 +2,7 @@
 **/edmx/
 *.db
 schema.sql
-default-env.json
+!default-env.json
 
 **/bin/
 **/target/
