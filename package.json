@@ -8,6 +8,7 @@
     "@sap/capire-products": "file:sap-capire-products-1.0.0.tgz"
   },
   "devDependencies": {
+    "@sap/hdi-deploy": "^4.3.3",
     "sqlite3": "^5.0.2"
   },
   "cds": {

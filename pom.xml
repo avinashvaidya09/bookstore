@@ -45,7 +45,10 @@
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
-             
+            <dependency>
+                <groupId>com.sap.cds</groupId>
+                <artifactId>cds-feature-hana</artifactId>
+            </dependency>
 		</dependencies>
 	</dependencyManagement>
 
