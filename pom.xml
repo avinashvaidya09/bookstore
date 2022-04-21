@@ -49,6 +49,10 @@
                 <groupId>com.sap.cds</groupId>
                 <artifactId>cds-feature-hana</artifactId>
             </dependency>
+            <dependency>
+                <groupId>com.sap.cds</groupId>
+                <artifactId>cds-feature-cloudfoundry</artifactId>
+            </dependency>
 		</dependencies>
 	</dependencyManagement>
 

@@ -1,0 +1,6 @@
+applications:
+- name: bookstore
+  path: srv/target/bookstore-exec.jar
+  random-route: true
+  services:
+  - sapbtphanadb_bookstore
